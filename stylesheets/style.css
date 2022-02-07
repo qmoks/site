@@ -1,0 +1,26 @@
+@import "reset.css";
+@import "content.css";
+@font-face {
+  font-family: "Anonymous pro";
+  src: url("../fonts/Anonymous_Pro.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family: "Anonymous pro b";
+  src: url("../fonts/Anonymous_Pro_B.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+h1{
+  font-family: Anonymous pro;
+  font-size: 220px;
+}
+h2{
+  font-family: Anonymous pro;
+  font-size: 135px;
+}
+h3{
+  font-family: Anonymous pro b;
+  font-size: 38px;
+}
